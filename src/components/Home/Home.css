@@ -1,0 +1,46 @@
+.home {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* width: 100vw; */
+}
+
+.left_section {
+  display: flex;
+}
+
+.left_div {
+  width: 300px;
+  height: 500px;
+  background: blueviolet;
+}
+
+.left_details {
+  margin-left: 100px;
+  padding: 70px 20px 0 0;
+}
+
+.left_details h1 {
+  font-size: 3rem;
+}
+
+.left_details p {
+  line-height: 1.5;
+  margin-top: 10px;
+  font-size: 1rem;
+}
+
+.left_details button {
+  padding: 1rem 2.5rem;
+  margin-top: 20px;
+  border: none;
+  color: white;
+  background: blueviolet;
+}
+
+.right_section {
+  width: 100%;
+}
+
+.right_section img {
+  width: 100%;
+}
