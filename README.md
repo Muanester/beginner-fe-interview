@@ -16,4 +16,4 @@ Notes
 - The template for the home page is provided below
 
 **_Template_**
-![](https://preview.colorlib.com/theme/pillowmart/img/banner.png)
+![](https://ibb.co/C7nJ52Y)
