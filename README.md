@@ -1,9 +1,11 @@
 **To do:**
 
-Create a React project with 3 pages
-- Home -> `/home` or `/`
-- About us (the page can contain random text). The route should work, -> `/about`
-- Products -> `/products`
+1. Clone the repository
+2. Create a new branch
+3. Create a React project with 3 pages on the new branch
+   - Home -> `/home` or `/`
+   - About us (the page can contain random text). The route should work, -> `/about`
+   - Products -> `/products`
 
 All the pages have a navbar with links to Home, About us and Products and a search icon.
 
