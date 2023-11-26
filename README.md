@@ -16,4 +16,4 @@ Notes
 - The template for the home page is provided below
 
 **_Template_**
-![](https://ibb.co/C7nJ52Y)
+![](https://i.postimg.cc/XJhd5BwD/int-template.jpg)
